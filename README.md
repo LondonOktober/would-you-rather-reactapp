@@ -25,3 +25,11 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Sources
+
+- Avatars from Tyler McGinnis https://tylermcginnis.com/
+- App styles from Semantic UI https://github.com/Semantic-Org/Semantic-UI-React
+- Uses React https://reactjs.org
+- Uses Redux https://redux.js.org
+- CSS-Tricks Props/PropTypes https://css-tricks.com/props-and-proptypes-in-react/
